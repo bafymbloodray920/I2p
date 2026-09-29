@@ -214,4 +214,4 @@ I2P is a full free version software with all features and updates included. Enjo
 Take control of your online privacy today. **Download I2P now and experience the Internet like never before!**
 
 ---
-**Last updated:** 2026-09-29 09:12:18 UTC
+**Last updated:** 2026-09-29 16:11:41 UTC
